@@ -1,0 +1,3 @@
+METADATA|WorkRelationship|SourceSystemOwner|SourceSystemId|PersonId(SourceSystemId)|LegalEmployerName|DateStart|WorkerType|PrimaryFlag
+MERGE|WorkRelationship|EMP|HDL001_POS|HDL001|Vision Corporation|2001/09/08|E|Y
+MERGE|WorkRelationship|EMP|HDL002_POS|HDL002|Vision Corporation|2005/02/08|E|Y
