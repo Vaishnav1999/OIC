@@ -1,0 +1,6 @@
+{
+	"sftpDirectory": "/outputfile/stage",
+	"fileName": "test.csv",
+	"headerRequired": "true",
+	"rowSize": 10000
+}
